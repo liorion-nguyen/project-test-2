@@ -71,6 +71,3 @@ Challenge your brain, improve your reflexes, and enjoy an entertaining experienc
 ## Run production
 
 1. Build apk `eas build --platform android`
-
-
-# tesst 2
